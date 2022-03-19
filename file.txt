@@ -1,0 +1,14 @@
+code:
+0xb00
+1xa01
+add a1 b 2
+mov x4 y4
+dir 4xbb1
+011011
+loop
+	add.-
+ff:a in heap.mem(new log.ssh)
+if not $arg 
+c::not in set
+d::not in array of paths
+$HOME is not empty
