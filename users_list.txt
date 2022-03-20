@@ -1,0 +1,15 @@
+This file provides a temporary list of admitted users:
+1. jgs2994
+2. ronk1ab
+3. sylaxy0
+4. not0111
+5. ty_NSDK
+6. rex_65x
+7. meNEO44
+8. astroJ0
+9. jgrnext
+If you desire to get a more detailed list use the following command on any SQL command line
+after having correctly loaded the database USERS_LIST:
+
+SELECT * FROM USERS_LIST WHERE (admitted is TRUE)
+More information will be provided during the next month
